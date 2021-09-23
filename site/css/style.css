@@ -26,7 +26,7 @@ li{list-style:none}
 
 html,body{ 
 	width:100%;
-	height:100%;
+	
   font-family: 'Source Sans Pro'!important;
 }
 
@@ -104,6 +104,7 @@ canvas{
 }
 
 .content{
+  height: 100%;
   background-color: rgb(211, 211, 211);
   box-shadow: #1c335f -2px -5px 14px 3px;
 }
